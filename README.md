@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Shoping cart<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java OOPS<br>💬 Ask me about<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
 
 
 # 💻 Tech Stack:
