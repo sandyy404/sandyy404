@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project like Shoping cart<br>🌱 I’m currently learning Java OOPS<br>💬 Ask me about why bugs love my code<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
+🔭 I’m currently working on Java Development<br>🌱 I’m currently learning Java OOPS<br>💬 Ask me about why bugs love my code<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
 
 
 # 💻 Tech Stack:
