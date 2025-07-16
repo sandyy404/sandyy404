@@ -3,8 +3,9 @@
 <h1 align="center">Hi there! 👋 I'm Sandeep</h1>
 <h3 align="center">A Passionate Java Developer | Tech Enthusiast </h3>
 
-<img align="right" width="300px" alt="App Develop" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBreTR2dTQzajNxdHJncWdqenVoZ21zb2JvaTQ1YmpucDZuZ3N0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif">
 
+
+<img  align="right" width="200px" alt="App Develop" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVldmwzamU5OG90MzE2YnlrMmt5eWwzbm9xdGtpMTJiZm51MWxkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.webp">
 ---
 
 ### 🚀 About Me
