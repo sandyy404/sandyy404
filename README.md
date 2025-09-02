@@ -38,7 +38,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 <a href="https://www.linkedin.com/in/sandeep-kumar-pandey-726a08321/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+-  <a href="https://www.linkedin.com/in/sandeep-kumar-pandey-726a08321/" target="_blank" rel="noopener noreferrer"><img width = "25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-suyH5XUGhAbRwMVg_mUyvJre2qtxGB6qPQ&s"></a>
 - 📞 Mobile number: 9569256493
 - 📧 Email: `sp8251960@gmail.com`
 
