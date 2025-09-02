@@ -45,8 +45,8 @@
 ---
 
 ### 👁‍🗨 Visitor Count
+![](https://komarev.com/ghpvc/?username=sandyy404&color=blue&style=flat-square&label=Profile+Views)
 
-[![](https://visitcount.itsvg.in/api?id=sandyy404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
