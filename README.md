@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
- I’m currently working on Java Development<br>🌱 I’m currently learning DSA using Java<br>💬 Ask me about why bugs love my code<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
+ I’m currently working on Software Development<br>🌱 I’m currently learning DSA using Java<br>💬 Ask me about why bugs love my code<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
 
 ---
 
