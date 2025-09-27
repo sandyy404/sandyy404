@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sandyy404/sandyy404/blob/main/banner.png)
 
 <h1 align="center">Hi there! 👋 I'm Sandeep</h1>
-<h3 align="center">A Passionate Java Developer | Tech Enthusiast </h3>
+<h3 align="center">A Passionate Software Developer | Tech Enthusiast </h3>
 
 
 
