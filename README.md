@@ -13,6 +13,8 @@
  I’m currently working on Software Development<br>🌱 I’m currently learning DSA using Java<br>💬 Ask me about why bugs love my code<br>⚡ Fun fact is "Skinny boys: light as air, fast as wind!" 🌬️
 
 ---
+<div align="center">
+
 
 <h3 align="center">Git Stats</h3>
 
@@ -107,9 +109,11 @@
 
 <!-- Rest of the tables follow the same pattern... -->
 
-<h2 align="center">📫 Let's Connect!</h2>
-
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>📫 Let's Connect!</h2>
+     <div align="left">
 <a href="https://x.com/Sandeep_4508" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -119,7 +123,27 @@
 <a href="mailto:sp8251960@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Shivam8105&color=blueviolet&style=flat-square&label=Profile+Views" 
+           alt="Profile views" width="200" height="35"/>
+    </td>
+  </tr>
+</table>
+
+
+<!-- <div align="left">
+<a href="https://x.com/Sandeep_4508" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sandeep-kumar-pandey-726a08321/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:sp8251960@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
+</div>   -->
   
 <br/>  
 
